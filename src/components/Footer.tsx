@@ -80,8 +80,8 @@ export default function Footer() {
 
 
             <div className="mt-10 text-stone-500 flex justify-between gap-3 flex-col md:flex-row">
-                <p className="">Copyright Calendly 2022</p>
-                <p className="">Privacy / Terms and Conditions</p>
+                <p className="">© Calendly 2024</p>
+                <p className="">Privacy & Terms and Conditions</p>
             </div>
         </div>
     )
